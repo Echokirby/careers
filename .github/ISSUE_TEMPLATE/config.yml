@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📩 投递简历
+    url: mailto:echokirbyg@gmail.com?subject=[Super Analyst] 姓名 - 简要背景
+    about: 请将简历(PDF)发送至此邮箱，邮件主题格式如上
