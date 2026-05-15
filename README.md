@@ -63,7 +63,7 @@
 [Super Analyst] 姓名 - 简要背景
 ```
 
-例如：`[Super Analyst] 张三 - 清华CS + 两年量化经验`
+例如：`[Super Analyst] 张三 - 清华CS + 两年AI工程经验`
 
 **邮件正文请包含：**
 
